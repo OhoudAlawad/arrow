@@ -1,6 +1,6 @@
 
 $(window).scroll(function(){
-    if($(this).scrollTop()>=500){
+    if($(this).scrollTop()>=200){
         $("#navBar").addClass("noTransparrent");
      }
     else{
